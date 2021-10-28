@@ -11,9 +11,9 @@ This project is an IOT based project. Now I'll go through the techinilogies I us
   ### Web Application
   
   ***Front-End***
-  -React with typescript
-  -Redux and Local storage - To manage complex states
-  -Apollo Client with GraphQL - To fetch data from the database 
+  - React with typescript
+  - Redux and Local storage - To manage complex states
+  - Apollo Client with GraphQL - To fetch data from the database 
   
 
 
