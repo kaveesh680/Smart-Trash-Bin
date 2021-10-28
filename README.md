@@ -6,7 +6,7 @@ Reward system based smart trash bin for plastic bottles which helps people econo
 
 Users/Customers can dispose used plastic bottles to this smart trash bin and they will be rewarded by some points which they can use them later for many cases. There is a website that users/customers needs to register before disposing bottles to trashbin. All the disposing details will be recorded in a database which users can view them throgh their registered account.
 
-This project is an IOT based project. Now I'll go through the techinilogies I used.
+This project is an IOT based project. Now I'll go through the technologies I used.
 
   ### Web Application
   
@@ -23,8 +23,11 @@ This project is an IOT based project. Now I'll go through the techinilogies I us
   - Nodejs with Express
   
 I herewith attached a link for the wireframes I created for the websites. But later I did some changes when developing the websites.  
-
 Wireframes - https://www.figma.com/file/Nvads7OF32cg0Pa9lUQy2Q/Untitled?node-id=4%3A26
+
+Git repositories for the fronend and backend.
+Front-End - https://github.com/kaveesh680/Smart-Trash-Bin-FrontEnd.git
+Back-End - 
 
 
 
