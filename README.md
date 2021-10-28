@@ -22,7 +22,10 @@ This project is an IOT based project. Now I'll go through the techinilogies I us
   - Apollo Server - Complex state and cache management for both the frontend and the backend
   - Nodejs with Express
   
-I herewith attached a link for the wireframes I created for the websites. But later I did somechanges when developing the websites.  
+I herewith attached a link for the wireframes I created for the websites. But later I did some changes when developing the websites.  
+
+Wireframes - https://www.figma.com/file/Nvads7OF32cg0Pa9lUQy2Q/Untitled?node-id=4%3A26
+
 
 
 
