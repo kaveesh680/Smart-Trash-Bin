@@ -22,8 +22,7 @@ This project is an IOT based project. Now I'll go through the technologies I use
   - Apollo Server - Complex state and cache management for both the frontend and the backend
   - Nodejs with Express
   
-I herewith attached a link for the wireframes I created for the websites. But later I did some changes when developing the websites.  
-Wireframes - https://www.figma.com/file/Nvads7OF32cg0Pa9lUQy2Q/Untitled?node-id=4%3A26
+I created the wireframes for the website using figma. You can check them [here.](https://www.figma.com/file/Nvads7OF32cg0Pa9lUQy2Q/Untitled?node-id=4%3A26). But later I did some changes when developing the websites.
 
 Git repositories for the fronend and backend.
 Front-End - https://github.com/kaveesh680/Smart-Trash-Bin-FrontEnd.git
