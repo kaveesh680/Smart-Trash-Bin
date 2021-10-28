@@ -8,3 +8,9 @@ Users/Customers can dispose used plastic bottles to this smart trash bin and the
 
 This project is an IOT based project. Now I'll go through the techinilogies I used.
 
+  Web Application
+  
+  Fronend - *React with typescript
+  
+
+
