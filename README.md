@@ -6,3 +6,5 @@ backend -
 bottles dataset - https://github.com/kaveesh680/bottles.git
 
 Reward system based smart trash bin for plastic bottles which helps people economically and at the same time reduce the environment pollution caused by the plastic wastes.
+
+
