@@ -27,7 +27,7 @@ I created the wireframes for the website using figma. You can check them [here](
 GIT REPOS :arrow_right: [Front-End](https://github.com/kaveesh680/Smart-Trash-Bin-FrontEnd.git) [Back-End](https://github.com/kaveesh680/STB-Backend)
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/63943539/139460073-301aea9b-0ee9-4fe1-982f-5fe503d5db19.png)
-
+![Screenshot (117)](https://user-images.githubusercontent.com/63943539/139461714-bc0c6154-a681-485f-8e0b-c155290ccb90.png)
 
 
 
