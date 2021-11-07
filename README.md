@@ -36,4 +36,11 @@ GIT REPOS :arrow_right: [Front-End](https://github.com/kaveesh680/Smart-Trash-Bi
 ![Screenshot (130)](https://user-images.githubusercontent.com/63943539/139462373-e58311e3-0213-4297-a14f-69726990b006.png)
 
 
+## Final Demonstration
+
+For a node I have used following parts
+- Microcontroller - RaspberryPi
+- 16X4 display
+- raspberrypi camera module
+- USB camera
 
