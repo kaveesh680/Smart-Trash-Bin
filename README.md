@@ -45,7 +45,6 @@ For a node I have used following parts
 - USB camera
 
 ![WhatsApp Image 2021-11-07 at 21 29 29](https://user-images.githubusercontent.com/63943539/140652485-9e1ed98d-31c8-4ffc-9eba-5a650d1c377d.jpeg)
-![WhatsApp Image 2021-11-07 at 21 29 33](https://user-images.githubusercontent.com/63943539/140652495-e355e74f-9ced-40fb-b537-386ab25a01a6.jpeg | width=100)
-![WhatsApp Image 2021-11-07 at 21 29 26](https://user-images.githubusercontent.com/63943539/140652500-fff536ef-8225-47a9-ad87-66a6c92731ef.jpeg | width=100)
-)
-![WhatsApp Image 2021-11-07 at 21 29 21](https://user-images.githubusercontent.com/63943539/140652507-26b14d68-89c4-4261-b42d-00dcf1fb42e6.jpeg | width=100)
+![WhatsApp Image 2021-11-07 at 21 29 33](https://user-images.githubusercontent.com/63943539/140652495-e355e74f-9ced-40fb-b537-386ab25a01a6.jpeg)
+![WhatsApp Image 2021-11-07 at 21 29 26](https://user-images.githubusercontent.com/63943539/140652500-fff536ef-8225-47a9-ad87-66a6c92731ef.jpeg)
+![WhatsApp Image 2021-11-07 at 21 29 21](https://user-images.githubusercontent.com/63943539/140652507-26b14d68-89c4-4261-b42d-00dcf1fb42e6.jpeg)
