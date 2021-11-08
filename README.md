@@ -51,3 +51,9 @@ For a node I have used following parts
 
 ### Bottle Detection Model
 
+I used following libraries to train the model
+- Numpy is used to manipulate array data
+- Matplotlib is used to visualize the images and to show how discernable a color is in a particular range of colors
+- OS is used to access the file structure
+- CV2 is used to read the images and convert them into different color schemes
+- Keras is used for the actual Neural Network
