@@ -62,4 +62,7 @@ I managed to implement the neural network with 100% accuracy and 98% validation 
 <img src="https://user-images.githubusercontent.com/63943539/140744713-6e5e4cc8-7ca9-4453-829a-a64a8773a165.png" width="800" height="600">
 
 Image before preprocessing
+<img src="https://user-images.githubusercontent.com/63943539/140749343-20b5aed0-0d65-4fd3-b45f-1fc4efab674f.jpg" width="400" height="400">
+
+Image after preprocessing
 
