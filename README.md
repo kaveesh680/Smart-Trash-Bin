@@ -59,3 +59,4 @@ I used following libraries to train the model
 - Keras is used for the actual Neural Network
 
 I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).
+<img src="https://user-images.githubusercontent.com/63943539/140744713-6e5e4cc8-7ca9-4453-829a-a64a8773a165.png" width="600" height="600">
