@@ -65,4 +65,4 @@ Image before preprocessing
 <img src="https://user-images.githubusercontent.com/63943539/140749343-20b5aed0-0d65-4fd3-b45f-1fc4efab674f.jpg" width="400" height="400">
 
 Image after preprocessing
-
+<img src="https://user-images.githubusercontent.com/63943539/140749361-2b3e95e3-55c9-4c73-a201-b38e7a6311df.png" width="400" height="400">
