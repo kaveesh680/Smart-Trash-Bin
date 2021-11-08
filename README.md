@@ -50,3 +50,4 @@ For a node I have used following parts
 <img src="https://user-images.githubusercontent.com/63943539/140652507-26b14d68-89c4-4261-b42d-00dcf1fb42e6.jpeg" width="400" height="400">
 
 ### Bottle Detection Model
+
