@@ -58,5 +58,8 @@ I used following libraries to train the model
 - CV2 is used to read the images and convert them into different color schemes
 - Keras is used for the actual Neural Network
 
-I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).
+I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).In the neural network there is an image processing part. I used a USB camera to capture the image of the bottle then that image goes through image processing algorithm. For the image processing algorithm, I used canny edge algorithm.
 <img src="https://user-images.githubusercontent.com/63943539/140744713-6e5e4cc8-7ca9-4453-829a-a64a8773a165.png" width="800" height="600">
+
+Image before preprocessing
+
