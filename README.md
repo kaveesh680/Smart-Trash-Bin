@@ -57,3 +57,5 @@ I used following libraries to train the model
 - OS is used to access the file structure
 - CV2 is used to read the images and convert them into different color schemes
 - Keras is used for the actual Neural Network
+
+I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).
