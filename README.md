@@ -66,3 +66,13 @@ Image before preprocessing
 
 Image after preprocessing
 <img src="https://user-images.githubusercontent.com/63943539/141247440-f8e521d9-acdb-48f1-a68c-a6bdb42ec77c.png" width="400" height="400">
+
+
+### QR Code Reading
+
+For the QR code reading, First i tried using ESP32 Module with ESP32 camera. But It worked only the first day. After few days i again tried to check it but didn't work. i tried reuploding the code but result was the same. So then i decided to use raspberry pi camera for QR code reading because it's the embedded camera for the raspberry pi and also resolution and the quality is high comparing to USB camera i have. From the QR code i get 2 credentials of the user, user name and the user id. 
+
+- user name - To show the greeting on the display
+- user ID - To update the database
+
+
