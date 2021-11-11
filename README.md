@@ -75,4 +75,4 @@ For the QR code reading, First i tried using ESP32 Module with ESP32 camera. But
 - user name - To show the greeting on the display
 - user ID - To update the database with dispose data
 
-
+<img src="https://user-images.githubusercontent.com/63943539/141252513-7e086e74-58c3-49b3-94d1-6617fc2c8753.jpeg" width="400" height="400">
