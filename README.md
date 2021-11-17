@@ -26,21 +26,21 @@ I created the wireframes for the website using figma. You can check them [here](
 
 GIT REPOS :arrow_right: [Front-End](https://github.com/kaveesh680/Smart-Trash-Bin-FrontEnd.git) [Back-End](https://github.com/kaveesh680/STB-Backend)
 
-<h5 align="center">Sign Up UX - Desktop</h5>
+<h5 align="center">Sign Up UI - Desktop</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139460073-301aea9b-0ee9-4fe1-982f-5fe503d5db19.png">
-<h5 align="center">Sign Up UX - Mobile</h5>
+<h5 align="center">Sign Up UI - Mobile</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139461714-bc0c6154-a681-485f-8e0b-c155290ccb90.png">
-<h5 align="center">Sign In UX - Desktop</h5>
+<h5 align="center">Sign In UI - Desktop</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139461931-3c00362b-92f8-4eb9-994e-822de0784b6d.png">
-<h5 align="center">Sign In UX - Mobile</h5>
+<h5 align="center">Sign In UI - Mobile</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139462235-849c7754-3dc6-446e-ba4f-fc3f205087df.png">
-<h5 align="center">User HomePage UX - Desktop</h5>
+<h5 align="center">User HomePage UI - Desktop</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139462308-0c15818d-5392-47ce-bf89-ebd2b7ee32ac.png">
-<h5 align="center">User HomePage UX - Mobile</h5>
+<h5 align="center">User HomePage UI - Mobile</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139462340-8aeb7d87-ad5e-4a06-a415-0ab39000b89f.png">
-<h5 align="center">Garbage Collector Homepage UX - Desktop</h5>
+<h5 align="center">Garbage Collector Homepage UI - Desktop</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139462358-a0f54991-99ca-4f81-81dc-2b13c0419b93.png">
-<h5 align="center">Garbage Collector Homepage UX - Mobile</h5>
+<h5 align="center">Garbage Collector Homepage UI - Mobile</h5>
 <img src="https://user-images.githubusercontent.com/63943539/139462373-e58311e3-0213-4297-a14f-69726990b006.png">
 
 
