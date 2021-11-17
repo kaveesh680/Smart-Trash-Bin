@@ -4,7 +4,7 @@ Reward system based smart trash bin for plastic bottles which helps people econo
 
 ## Description
 
-Users/Customers can dispose used plastic bottles to this smart trash bin and they will be rewarded by some points which they can use them later for many cases. There is a website that users/customers needs to register before disposing bottles to trashbin. All the disposing details will be recorded in a database which users can view them throgh their registered account.
+Users/Customers can dispose used plastic bottles to this smart trash bin and they will be rewarded by some points which they can use them later for many cases. There is a website that users/customers needs to register before disposing bottles to trashbin. All the disposing details will be recorded in a database which users can view them throgh their registered account. In addition to that garbage collectors can also login to their accounts and check the level of trash in the trash bin.
 
 This project is an IOT based project. Now I'll go through the technologies I used.
 
