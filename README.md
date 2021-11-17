@@ -52,6 +52,9 @@ For a node I have used following parts
 - 16X4 display
 - raspberrypi camera module
 - USB camera
+
+For the display first I used Nokia 5110 LCD display. But unkowingly I gave it 5v power instead of 3.3v. So the display was damaged. I couldn't find the same display. So I purchased 16X4 display. 
+
 <p align="center">
 <img align="center" src="https://user-images.githubusercontent.com/63943539/140652485-9e1ed98d-31c8-4ffc-9eba-5a650d1c377d.jpeg" width="400" height="400">
   </p>
@@ -79,6 +82,8 @@ I used following libraries to train the model
 - Keras is used for the actual Neural Network
 
 I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).In the neural network there is an image processing part. I used a USB camera to capture the image of the bottle then that image goes through image processing algorithm. For the image processing algorithm, I used canny edge algorithm.
+
+I also want  to mention the challenges I faced implementing this model. My initial idea was to train the model to detect bottles according to their sizes. But I struggled with the dataset. So I decided to train the model to detect only the  object is a bottle or not. Still I had the dataset problem. For the dataset first I took about 200 images using my phone and trained the model but prediction didn't work well. Next I got a dataset from a website and again trained the model for that dataset. It also didn't work well. Finally I made my own dataset downloading images from the google one by one. I dowloaded about 300 - 400 images and repeat the same images with different brightness and contrast levels. 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63943539/140744713-6e5e4cc8-7ca9-4453-829a-a64a8773a165.png" width="800" height="600">
 </p>
