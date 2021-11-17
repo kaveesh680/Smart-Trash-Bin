@@ -79,14 +79,18 @@ I used following libraries to train the model
 - Keras is used for the actual Neural Network
 
 I managed to implement the neural network with 100% accuracy and 98% validation accuracy. You can see the dataset I used [here](https://github.com/kaveesh680/bottles.git).In the neural network there is an image processing part. I used a USB camera to capture the image of the bottle then that image goes through image processing algorithm. For the image processing algorithm, I used canny edge algorithm.
+<p align="center">
 <img src="https://user-images.githubusercontent.com/63943539/140744713-6e5e4cc8-7ca9-4453-829a-a64a8773a165.png" width="800" height="600">
-
-Image before preprocessing
+</p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/63943539/140749343-20b5aed0-0d65-4fd3-b45f-1fc4efab674f.jpg" width="400" height="400">
+  </p>
+<h5 align="center">Image before preprocessing</h5>
 
-Image after preprocessing
+<p align="center">
 <img src="https://user-images.githubusercontent.com/63943539/141247440-f8e521d9-acdb-48f1-a68c-a6bdb42ec77c.png" width="400" height="400">
-
+  <p align="center">
+<h5 align="center">Image after preprocessing</h5>
 
 ### QR Code Reading
 
