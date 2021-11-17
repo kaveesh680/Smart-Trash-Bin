@@ -53,14 +53,14 @@ For a node I have used following parts
 - raspberrypi camera module
 - USB camera
 
-<img src="https://user-images.githubusercontent.com/63943539/140652485-9e1ed98d-31c8-4ffc-9eba-5a650d1c377d.jpeg" width="400" height="400">
+<img align="center" src="https://user-images.githubusercontent.com/63943539/140652485-9e1ed98d-31c8-4ffc-9eba-5a650d1c377d.jpeg" width="400" height="400">
 <h5 align="center">Raspberry Pi</h5>
-<img src="https://user-images.githubusercontent.com/63943539/140652495-e355e74f-9ced-40fb-b537-386ab25a01a6.jpeg" width="400" height="400">
-<h5 align="center">Garbage Collector Homepage UX - Desktop</h5>
-<img src="https://user-images.githubusercontent.com/63943539/140652500-fff536ef-8225-47a9-ad87-66a6c92731ef.jpeg" width="400" height="400">
-<h5 align="center">Garbage Collector Homepage UX - Desktop</h5>
-<img src="https://user-images.githubusercontent.com/63943539/140652507-26b14d68-89c4-4261-b42d-00dcf1fb42e6.jpeg" width="400" height="400">
-<h5 align="center">Garbage Collector Homepage UX - Desktop</h5>
+<img align="center" src="https://user-images.githubusercontent.com/63943539/140652495-e355e74f-9ced-40fb-b537-386ab25a01a6.jpeg" width="400" height="400">
+<h5 align="center">USB Camera</h5>
+<img align="center" src="https://user-images.githubusercontent.com/63943539/140652500-fff536ef-8225-47a9-ad87-66a6c92731ef.jpeg" width="400" height="400">
+<h5 align="center">16X4 Display</h5>
+<img align="center" src="https://user-images.githubusercontent.com/63943539/140652507-26b14d68-89c4-4261-b42d-00dcf1fb42e6.jpeg" width="400" height="400">
+<h5 align="center">Raspberry Pi Camera</h5>
 
 ### Bottle Detection Model
 
